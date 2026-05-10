@@ -1,0 +1,12 @@
+# Obsidian - estado local de la app, no versionar
+vault/.obsidian/workspace*
+vault/.obsidian/cache
+vault/.obsidian/appearance.json
+vault/.obsidian/hotkeys.json
+vault/.trash/
+vault/**/.trash/
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
