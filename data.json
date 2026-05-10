@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "mes": "Mayo",
+    "anio": 2026,
+    "horario_domingo": "10:00 hs",
+    "horario_jueves": "20:00 hs",
+    "verso": "La fe en el nombre de Jesús opera milagros",
+    "ubicacion": "Olavarría · Buenos Aires · Argentina",
+    "stats": {
+      "cultos": 9,
+      "servidores": 14,
+      "roles": 5,
+      "turnos": 45
+    }
+  },
+  "dias": [
+    {
+      "tipo": "domingo",
+      "fecha": "03",
+      "asignados": { "obs": "Nati", "cam1": "David", "cam2": "Rocío F.", "proy1": "Xime", "proy2": "Melo" },
+      "disponibles": ["Ara", "Gia", "Stefa", "Luna"]
+    },
+    {
+      "tipo": "jueves",
+      "fecha": "07",
+      "asignados": { "obs": "Marti", "cam1": "Thiago", "cam2": "Juli", "proy1": "Chris", "proy2": "Ara" },
+      "disponibles": ["David", "Nati", "Melo", "Rocío F.", "Xime"]
+    },
+    {
+      "tipo": "domingo",
+      "fecha": "10",
+      "asignados": { "obs": "Juli", "cam1": "David", "cam2": "Luna", "proy1": "Melo", "proy2": "Rocío F." },
+      "disponibles": ["Chris", "Ara", "Nati", "Xime"]
+    },
+    {
+      "tipo": "jueves",
+      "fecha": "14",
+      "asignados": { "obs": "Stefa", "cam1": "Marti", "cam2": "Aramis", "proy1": "David", "proy2": "Juli" },
+      "disponibles": ["Ara", "Nati", "Melo", "Thiago", "Rocío F.", "Xime"]
+    },
+    {
+      "tipo": "domingo",
+      "fecha": "17",
+      "asignados": { "obs": "Thiago", "cam1": "Xime", "cam2": "Gia", "proy1": "Nati", "proy2": "Luna" },
+      "disponibles": ["David", "Ara", "Melo", "Rocío F."]
+    },
+    {
+      "tipo": "jueves",
+      "fecha": "21",
+      "asignados": { "obs": "Melo", "cam1": "Aramis", "cam2": "Rocío F.", "proy1": "Stefa", "proy2": "Marti" },
+      "disponibles": ["Juli", "David", "Ara", "Nati", "Thiago", "Xime"]
+    },
+    {
+      "tipo": "domingo",
+      "fecha": "24",
+      "asignados": { "obs": "Aramis", "cam1": "Thiago", "cam2": "Nati", "proy1": "Melo", "proy2": "Gia" },
+      "disponibles": ["David", "Ara", "Luna", "Rocío F."]
+    },
+    {
+      "tipo": "jueves",
+      "fecha": "28",
+      "asignados": { "obs": "Nati", "cam1": "Chris", "cam2": "David", "proy1": "Stefa", "proy2": "Xime" },
+      "disponibles": ["Marti", "Ara", "Melo", "Thiago", "Rocío F."]
+    },
+    {
+      "tipo": "domingo",
+      "fecha": "31",
+      "asignados": { "obs": "Ara", "cam1": "Juli", "cam2": "Luna", "proy1": "Rocío F.", "proy2": "David" },
+      "disponibles": ["Chris", "Marti", "Gia", "Stefa", "Nati", "Melo", "Thiago", "Xime"]
+    }
+  ],
+  "notas": [
+    { "label": "Capacitación OBS", "texto": "Rocío F., Luna y David están aprendiendo otros roles antes de pasar a OBS — todavía no se les asigna ese rol." },
+    { "label": "Aramis", "texto": "También sirve en alabanza (guitarra). Sus turnos quedan condicionados a las designaciones de música." },
+    { "label": "Jere", "texto": "Estudiando en IBRP fuera de Olavarría todo el mes. Vuelve después." },
+    { "label": "Solapamientos D.E.N.", "texto": "Juli, Stefa, Christian, Xime y Aramis tienen días en niños — ya están contemplados en las fechas que no aparecen." }
+  ],
+  "turnos_por_persona": [
+    { "nombre": "David", "turnos": 5, "estilo": "high" },
+    { "nombre": "Juli", "turnos": 4, "estilo": "" },
+    { "nombre": "Melo", "turnos": 4, "estilo": "" },
+    { "nombre": "Nati", "turnos": 4, "estilo": "" },
+    { "nombre": "Rocío F.", "turnos": 4, "estilo": "" },
+    { "nombre": "Aramis", "turnos": 3, "estilo": "" },
+    { "nombre": "Luna", "turnos": 3, "estilo": "" },
+    { "nombre": "Marti", "turnos": 3, "estilo": "" },
+    { "nombre": "Stefa", "turnos": 3, "estilo": "" },
+    { "nombre": "Thiago", "turnos": 3, "estilo": "" },
+    { "nombre": "Xime", "turnos": 3, "estilo": "" },
+    { "nombre": "Ara", "turnos": 2, "estilo": "low" },
+    { "nombre": "Chris", "turnos": 2, "estilo": "low" },
+    { "nombre": "Gia", "turnos": 2, "estilo": "low" }
+  ]
+}
