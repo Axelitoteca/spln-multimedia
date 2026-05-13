@@ -1,0 +1,9 @@
+# Vault de Obsidian — contiene info personal sensible, NUNCA pushear
+# (CUIT, banking, finanzas, familia, contactos). El repo es público.
+vault/*
+!vault/.gitkeep
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
