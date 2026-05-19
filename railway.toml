@@ -1,0 +1,9 @@
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "python -m precios.cli --fecha hoy --tipo minorista"
+restartPolicyType = "never"
+
+# Para correr una vez por dia, configurar el cron en Railway:
+# Settings -> Cron Schedule: "0 12 * * *"  (12:00 UTC = 09:00 ART)
