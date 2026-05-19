@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Datos crudos SEPA (no commitear, son grandes y cambian a diario)
+data/raw/
+data/*.db
+data/*.sqlite
+
+# Reportes generados
+output/
+
+# Secretos
+.env
+
+# OS
+.DS_Store
